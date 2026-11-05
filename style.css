@@ -20,3 +20,8 @@ oevrflow: hidden;
     rgba(4,120,87,0.8)
     );
 }
+
+.hero-content{
+  position: relative;
+  max-width: 800;
+}
