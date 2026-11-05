@@ -1,0 +1,12 @@
+.hero {
+position: relative;
+height: 100vh;
+background: url('zakiy') center/coover no-repeat;
+display: flex;
+align-items: center;
+justify-content: center;
+color: white;
+text-align: center;
+oevrflow: hidden;
+magin-button: 50px;
+}
